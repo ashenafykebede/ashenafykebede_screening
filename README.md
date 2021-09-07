@@ -8,9 +8,11 @@ My name is Ashenafi Kebede and I am from Ethiopia. I am interested in webpage an
  I’m currently attending a training about front end web development program by <a href = "https://hackyourfuture.be/" target="_blank"> #HackYourFutureBelgium .</a>
  
 # Reach me 📫
-ashuewa@gmail.com
+Email me via: <a href="mailto:ashuewa@gmail.com">ashuewa@gmail.com</a>
 
-<a href = "https://www.linkedin.com/in/ashenafi-kebede-56a66720/" target="_blank">LinkedIn</a>
+Join me in <a href = "https://www.linkedin.com/in/ashenafi-kebede-56a66720/" target="_blank">LinkedIn</a>
+
+Follow me in [twitter](https://twitter.com/proudtigrawai)
 
 <!---
 ashenafykebede/ashenafykebede is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
