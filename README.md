@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @ashenafykebede
-- 👀 I’m interested in webpage development...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img src = "https://github.com/ashenafykebede/ashenafykebede/blob/main/AshenafiKebede_github_ReadMe.png" width = "75%" class = "rounded">
+
+# About me 👋
+
+My name is Ashenafi Kebede and I am from Ethiopia. I am interested in webpage and software development.  I have MSc degree in Microelectronics Engineering and Bachelor degree in Electrical Engineering.
+
+# Current Activities 🌱
+ I’m currently attending a training about front end web development program by <a href = "https://hackyourfuture.be/"> #HackYourFutureBelgium .</a>
+ 
+## Reach me 📫
+ashuewa@gmail.com.
+<a href = "https://www.linkedin.com/in/ashenafi-kebede-56a66720/">LinkedIn</a>
 
 <!---
 ashenafykebede/ashenafykebede is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
