@@ -32,7 +32,7 @@ My name is Ashenafi Kebede and I am from Ethiopia. I am interested in webpage an
   </tr>
   <tr>
     <td>Frameworks</td>
-    <td> Laravel, codeigiter , Bootsrap, Jquery</td>
+    <td> Laravel, Codeigniter , Bootstrap, Jquery</td>
   </tr>
    <tr>
     <td>Databases</td>
@@ -40,7 +40,7 @@ My name is Ashenafi Kebede and I am from Ethiopia. I am interested in webpage an
   </tr>
   <tr>
     <td>IDEs/Tools</td>
-    <td> Visual Studio code, notepad++ , Sublimetext, Github </td>
+    <td> Visual Studio Code, Notepad++ , Sublimetext, Github </td>
   </tr>
 </table>
  
