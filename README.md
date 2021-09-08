@@ -36,6 +36,12 @@ My name is Ashenafi Kebede and I am from Ethiopia. I am interested in webpage an
 ### Let's keep in touch
 [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" />](mailto:ashuewa@gmail.com)                           &nbsp;  [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg" />](https://www.youtube.com/)  &nbsp;   [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />](https://www.linkedin.com/in/ashenafi-kebede-56a66720/) &nbsp;    [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />](https://twitter.com/proudtigrawai)&nbsp;   [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" />](https://www.facebook.com/)&nbsp;    [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" />](https://www.instagram.com/) 
 
+### Repo Statistics
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashenafykebede&count_private=true&show_icons=true?theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashenafykebede&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!---
 ashenafykebede/ashenafykebede is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
