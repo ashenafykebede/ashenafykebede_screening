@@ -31,10 +31,10 @@ MySQL
 
 ### IDEs/Tools
 
-Visual Studio code, sublime text , github, notepad++, Xilinx  vivado, Xilinx SDK
+ [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg"/>](https://code.visualstudio.com/)  &nbsp;    [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/sublimetext.svg" />](https://code.visualstudio.com/)  &nbsp;     [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" />](https://github.com/)  &nbsp;   [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/notepadplusplus.svg" />](https://notepad-plus-plus.org/)  &nbsp;    Xilinx  vivado , Xilinx SDK
  
 ### Let's keep in touch
-[Gmail](mailto:ashuewa@gmail.com)   [LinkedIn](https://www.linkedin.com/in/ashenafi-kebede-56a66720/)  [twitter](https://twitter.com/proudtigrawai)
+[<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" />](mailto:ashuewa@gmail.com)                           &nbsp;  [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/youtube.svg" />](https://www.youtube.com/)  &nbsp;   [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />](https://www.linkedin.com/in/ashenafi-kebede-56a66720/) &nbsp;    [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />](https://twitter.com/proudtigrawai)&nbsp;   [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" />](https://www.facebook.com/)&nbsp;    [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" />](https://www.instagram.com/) 
 
 <!---
 ashenafykebede/ashenafykebede is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
