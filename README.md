@@ -18,7 +18,7 @@ My name is Ashenafi Kebede and I am from Ethiopia. I am interested in webpage an
  
  ## Skills
  ### Software Programming languages
- C,c++, PHP,Javascript, HTML, CSS, Bootstrap
+ C,C++, PHP,Javascript, HTML, CSS, Bootstrap
  
  ### Hardware Description languages
  VHDL, Verilog
