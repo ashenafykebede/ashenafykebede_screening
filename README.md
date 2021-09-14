@@ -14,7 +14,7 @@ My name is Ashenafi Kebede and I am from Ethiopia. I am interested in webpage an
  - https://www.hotelbooking.shitene.com Multihotel booking management system
  - https://www.sports.shitene.com A website for Mekelle Sport Club with membership management
  - https://www.waterbill.shitene.com Water bill management system
- - https://www.fundme.shitene.com Local Fundriser system itegrated with Wegagen Bank and Lion International Banks of Ethiopia
+ - https://www.fundme.shitene.com Local Fundriser system integrated with Wegagen Bank and Lion International Banks of Ethiopia
  
 ## Skills
 <table>
@@ -24,7 +24,7 @@ My name is Ashenafi Kebede and I am from Ethiopia. I am interested in webpage an
   </tr>
   <tr>
     <td>Software Programming Languages</td>
-    <td>C,C++, PHP,Javascript, HTML, CSS, Bootstrap</td>
+    <td>C,C++, PHP,Javascript, HTML, CSS</td>
   </tr>
   <tr>
     <td>Hardware Description Languages</td>
